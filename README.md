@@ -60,14 +60,6 @@ I'm a passionate backend developer with a strong focus on **Clean Architecture**
 - **Real-time**: WebSocket-based live updates, instant code execution feedback
 - **AI Integration**: Google Gemini for dynamic problem generation and code analysis
 
-### 🪙 [Crypto Market Aggregator](https://github.com/Havennz/crypto-market-aggregator)
-**Real-time cryptocurrency price aggregation API**
-- **Tech**: Kotlin, Spring WebFlux, Redis, InfluxDB, AWS Cognito
-- **Architecture**: Hexagonal Architecture with Clean Code principles
-- **Features**: Multi-exchange aggregation, WebSocket real-time updates, intelligent caching
-- **Performance**: <100ms API latency, 1000+ req/sec throughput
-- **Quality**: 80%+ mutation test coverage, automated CI/CD
-
 ### 🎮 [AI-Powered Discord RPG Bot](https://github.com/Havennz/discord-rpg-bot)
 **Intelligent RPG system with behavioral AI**
 - **Tech**: Python, Discord.py, SQLite, Gemini AI, AsyncIO
