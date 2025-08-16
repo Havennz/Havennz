@@ -51,7 +51,7 @@ I'm a passionate backend developer with a strong focus on **Clean Architecture**
 
 ## 🏗️ Featured Projects
 
-### 🎮 [Code Battle Arena](https://github.com/Havennz/code-battle-arena) ⭐ **CURRENT PROJECT**
+### 🎮 [Code Battle Arena](https://github.com/Havennz/code-battle-arena) ⭐ **CURRENT PROJECT (PRIVATE FOR NOW)**
 **Revolutionary real-time competitive programming platform**
 - **Tech**: Kotlin, Spring Boot (WebMVC + WebSocket), React, MongoDB, Kafka, Google Gemini AI
 - **Architecture**: Hexagonal Architecture with Domain-Driven Design
